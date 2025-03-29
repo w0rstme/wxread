@@ -43,22 +43,25 @@ headers = {
 """
 建议保留区域|默认读三体，其它书籍自行测试时间是否增加
 """
-data = {
-    "appId": "wb182564874663h152492176",
-    "b": "ce032b305a9bc1ce0b0dd2a",
-    "c": "7cb321502467cbbc409e62d",
-    "ci": 70,
-    "co": 0,
-    "sm": "[插图]第三部广播纪元7年，程心艾AA说",
-    "pr": 74,
-    "rt": 30,
-    "ts": 1727660516749,
-    "rn": 31,
-    "sg": "991118cc229871a5442993ecb08b5d2844d7f001dbad9a9bc7b2ecf73dc8db7e",
-    "ct": 1727660516,
-    "ps": "b1d32a307a4c3259g016b67",
-    "pc": "080327b07a4c3259g018787",
-}
+data = data = {
+        "appId": "wb182564874663h1004883397",
+        "bookVersion": 1447775167,
+        "reviewId": "",
+        "chapterUid": 14,
+        "chapterOffset": 1298,
+        "chapterIdx": 14,
+        "updateTime": 1743241052,
+        "synckey": 1810844993,
+        "summary": "残哥们儿。其时我已收获几笔稿酬，买了一辆",
+        "repairOffsetTime": 0,
+        "readingTime": 904,
+        "progress": 97,
+        "isStartReading": 1,
+        "ttsTime": 0,
+        "startReadingTime": 1743147793,
+        "installId": "3184937251016331181209811715",
+        "recordReadingTime": 0
+    }
 
 
 def convert(curl_command):

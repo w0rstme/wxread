@@ -43,7 +43,7 @@ headers = {
 """
 建议保留区域|默认读三体，其它书籍自行测试时间是否增加
 """
-data = data = {
+data = {
         "appId": "wb182564874663h1004883397",
         "bookVersion": 1447775167,
         "reviewId": "",
